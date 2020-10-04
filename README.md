@@ -1,6 +1,6 @@
 # Website
 Tech used: HTML5 Bootstrap5 JS CSS
-References: Bootstrap Course(Coursera) by Hong Kong Univesity.
+References: Bootstrap Course(Coursera) by Hong Kong University.
 
 School website with many features.
 Foolowing features have been included=>
