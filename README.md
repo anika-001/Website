@@ -1,4 +1,7 @@
 # Website
+Tech used: HTML5 Bootstrap5 JS CSS
+References: Bootstrap Course(Coursera) by Hong Kong Univesity.
+
 School website with many features.
 Foolowing features have been included=>
 >A mobile-friendly as well as Computer friendly Responsive website.
@@ -13,6 +16,14 @@ It contains the following pages:
 3.Contact us
 4.Calendar
 5.News
+
+
+Flow:
++easy navigation via navbar
++navigation via footer
++in-card links
++breadcrumbs included
++Easy and User-friendly
 
 *Images have been taken from unsplash.com*
 Screen capture can be found in Captures folder.
